@@ -1,0 +1,32 @@
+[
+    {
+      "first_name": "Dorita",
+      "last_name": "Ruddock",
+      "email": "druddock0@issuu.com",
+      "gender": "Female"
+    },
+    {
+      "first_name": "Dru",
+      "last_name": "Grotty",
+      "email": "dgrotty1@photobucket.com",
+      "gender": "Male"
+    },
+    {
+      "first_name": "Wittie",
+      "last_name": "Maith",
+      "email": "wmaith2@google.it",
+      "gender": "Bigender"
+    },
+    {
+      "first_name": "Matthew",
+      "last_name": "Rooms",
+      "email": "mrooms3@constantcontact.com",
+      "gender": "Bigender"
+    },
+    {
+      "first_name": "Octavius",
+      "last_name": "Chiverton",
+      "email": "ochiverton4@behance.net",
+      "gender": "Polygender"
+    }
+  ]
