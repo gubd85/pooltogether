@@ -45,6 +45,9 @@ dependencies:
   dart_notification_center: ^1.0.0+1
   intl: ^0.17.0
   loading_animation_widget: ^0.0.2+2
+  wallet_connect: ^1.0.2
+  qr_flutter: ^4.0.0
+  url_launcher: ^6.0.17
   
   
   
