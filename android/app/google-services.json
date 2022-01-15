@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697110462488",
+    "project_id": "abrir-mestamask",
+    "storage_bucket": "abrir-mestamask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697110462488:android:5256ecd54cb1b4e567836d",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697110462488-5gkoo0mtr4l787lk9umodg6e2rdjsdj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChKlVYHDz5K21k3xenlucN0m_uLlfYddo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697110462488-5gkoo0mtr4l787lk9umodg6e2rdjsdj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

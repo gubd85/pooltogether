@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
+import 'package:my_app/account/account_offline/page/account_offline_page.dart';
 import 'package:my_app/account/account_online/account_online_page.dart';
 import 'package:my_app/deposit/page/deposit_page.dart';
 import 'package:my_app/prize/page/prize_page.dart';
@@ -17,7 +18,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   var pageIndex = 0;
-  final screens = [DepositPage(), PrizePage(), AccountOnlinePage()];
+  final screens = [DepositPage(), PrizePage(), AccountOffLinePage()];
 
   void onTapped(int index) {
     setState(() {
